@@ -1,0 +1,18 @@
+model Model
+	culture: es-UY
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: es-UY
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["Ventas Videojuegos"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table 'Ventas Videojuegos'
+
+ref cultureInfo es-UY
+

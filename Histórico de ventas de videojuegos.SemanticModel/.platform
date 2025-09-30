@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Histórico de ventas de videojuegos"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9037d4a0-97b7-49b5-9379-cab75eefc80f"
+  }
+}
